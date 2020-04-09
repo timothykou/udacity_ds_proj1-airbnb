@@ -75,7 +75,10 @@ Weak r-squared values for predictions on the test data indicate that this model 
 Overfitting was also ruled out as a cause for the weak r-squared value.  
 A larger dataset, especially with a higher number of variables per datapoint, would likely be able to improve the prediction accuracy of this linear regression model.  
 
+#### Lessons Learned
 Based on my analysis of this data, it's clear that the location of the listing is the strongest indicator for the its nightly price. However, as evident from the coefficient weights from the linear model, few other variables are strong indicators for listing prices. As a result, the variables used in this analysis are insufficient to reliably predict listings prices - this can be seen from the weak r-squared values for the linear model's predictions on test data.  
+
+Additional variables for these listings that may help build a stronger model include the size of the space (in sq. footage), the value or safety of the neighborhood, the distance of the property from sightseeing locations, or even the quality of the photos used on the listing page. Since these variables would help differentiate homes in the same city, they should be able to increase prediction accuracy for listing prices across all locations.
 
 
 ## Acknowledgements
