@@ -86,5 +86,7 @@ Author: Tim Kou (https://github.com/timothykou)
 
 Thanks for 'Inside Airbnb' for hosting the dataset used for this project (http://insideairbnb.com/get-the-data.html)  
 
+Link to Medium blog post on this subject: https://medium.com/@timothydkou/these-are-the-leading-factors-for-an-airbnb-listings-price-538bfb9662ce
+
 ## License  
 ![License](/License.md)
